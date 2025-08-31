@@ -1,3 +1,8 @@
+📊 GitHub Stats
+ 
+
+   getting all zero data fix all the stats issues and send full code 
+
 <!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/mz5tWJ9/dev-banner.gif" width="100%" alt="Banner" />
@@ -19,10 +24,10 @@
 
 ## ✨ About Me
 <p align="center">
-  🚀 Designing and developing full-stack applications with clean UI/UX.<br>
-  💡 Building AI-powered, realtime applications for seamless user experiences.<br>
-  🎯 Focused on performance, scalability, and modern design patterns.<br>
-  🔹 Mentor for juniors and advocate of maintainable code.
+  🚀 I design and develop full-stack applications with scalable architectures and clean UI/UX. <br>
+  💡 Currently building AI-powered and realtime applications for seamless user experiences. <br>
+  🎯 Skilled in optimizing performance, implementing modern design patterns, and leading projects from concept to deployment. <br>
+  🔹 Passionate about mentoring juniors, writing maintainable code, and delivering production-ready apps.
 </p>
 
 ---
@@ -49,13 +54,22 @@
 
 ---
 
+## 📌 Key Highlights
+- Senior-level expertise in **full-stack MERN projects** and **cross-platform Flutter apps**.  
+- Experienced in **AI integration**, **realtime data streams**, and **modern UI/UX design patterns**.  
+- Strong focus on **code quality, scalability, and maintainability**.  
+- Mentor and guide for juniors, fostering clean and efficient development practices.  
+- Active in **open-source contributions** and continuous learning of new technologies.  
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/sameerdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=sameerdev&show_icons=true&theme=radical&count_private=true&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sameerdev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/sameerdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerdev&layout=compact&theme=radical&hide_border=false&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerdev&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
