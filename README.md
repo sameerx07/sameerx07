@@ -1,8 +1,3 @@
-📊 GitHub Stats
- 
-
-   getting all zero data fix all the stats issues and send full code 
-
 <!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/mz5tWJ9/dev-banner.gif" width="100%" alt="Banner" />
@@ -63,25 +58,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/sameerdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=sameerdev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/sameerdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerdev&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameerdev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameerdev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameerdev&theme=radical" />
-</p>
-
----
-
 <!-- Footer Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=120&section=footer"/>
 </p>
+
+
+
