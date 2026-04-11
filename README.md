@@ -1,6 +1,25 @@
+<!--
+  ████████████████████████████████████████████████████████
+  ██  MUHAMMAD SAMEER — GITHUB PROFILE README            ██
+  ██  Replace YOUR_USERNAME with your real GitHub handle ██
+  ████████████████████████████████████████████████████████
+-->
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03050a,50:07091a,100:03050a&height=3&section=header"/>
+</div>
+
+```
+ ███████  █████  ███    ███ ███████ ███████ ██████
+ ██      ██   ██ ████  ████ ██      ██      ██   ██
+ ███████ ███████ ██ ████ ██ █████   █████   ██████
+      ██ ██   ██ ██  ██  ██ ██      ██      ██   ██
+ ███████ ██   ██ ██      ██ ███████ ███████ ██   ██
+```
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Muhammad%20Sameer&fontSize=65&color=0:080b14,50:0d1120,100:080b14&fontColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1.5&desc=AI%20Engineer%20%7C%20Full%20Stack%20%7C%20Flutter%20%7C%20.NET%20Core&descSize=18&descAlignY=70&descColor=67e8f9" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=900&color=818CF8&center=true&vCenter=true&width=680&lines=%3E+AI+Engineer+%7C+LLMs+%7C+RAG+Pipelines+%7C+Agents;%3E+MERN+%7C+Next.js+14+%7C+ASP.NET+Core+10+%7C+.NET+10;%3E+Azure+%7C+Kubernetes+%7C+Docker+%7C+PostgreSQL;%3E+Flutter+%7C+Dart+%7C+Cross-Platform+Apps;%3E+Remote+Worldwide+%7C+Available+Now+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,178 +27,231 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=🤖+AI+Engineer+%7C+LLMs+%7C+RAG+%7C+Agents;⚡+MERN+%7C+Next.js+14+%7C+ASP.NET+Core+10;☁️+Azure+%7C+Kubernetes+%7C+Docker+%7C+PostgreSQL;📱+Flutter+%7C+Cross-Platform+Apps;🌍+Remote+%7C+Available+for+Work)](https://git.io/typing-svg)
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2_Status-Available_for_Remote_Work-818cf8?style=for-the-badge&labelColor=07091a&color=818cf8)
+&nbsp;
+![Exp](https://img.shields.io/badge/Experience-2%2B_Years-38bdf8?style=for-the-badge&labelColor=07091a&color=38bdf8)
+&nbsp;
+![Location](https://img.shields.io/badge/%F0%9F%8C%8D_Location-Remote_Worldwide-34d399?style=for-the-badge&labelColor=07091a&color=34d399)
+
+<br/><br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sameersam.s199@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sameer-9767921b7/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-818cf8?style=flat-square&logo=vercel&logoColor=white)](https://sameerdev.online/)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=818cf8&style=flat-square&label=Views)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-<div align="center">
-
-![Available](https://img.shields.io/badge/🟢_Status-Available_for_Remote_Work-7c3aed?style=for-the-badge&labelColor=0d1120)
-![Experience](https://img.shields.io/badge/Experience-2%2B_Years-06b6d4?style=for-the-badge&labelColor=0d1120)
-![Location](https://img.shields.io/badge/📍_Location-Remote_Worldwide-f59e0b?style=for-the-badge&labelColor=0d1120)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sameersam.s199@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sameer-9767921b7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://sameerdev.online/)
-[![Profile Views](https://komarev.com/ghpvc/?username=muhammadsameer&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/muhammadsameer)
-
-</div>
-
----
-
-## `whoami`
+## `> sameer.config.ts`
 
 ```typescript
 const sameer = {
-  name        : "Muhammad Sameer",
-  role        : "AI Engineer & Senior Full Stack Developer",
-  location    : "Remote 🌍 — Worldwide",
-  experience  : "2+ Years",
+  name      : "Muhammad Sameer",
+  role      : "AI Engineer  ·  Full Stack Developer  ·  Flutter",
+  location  : "Remote 🌍  —  Available Worldwide",
+  experience: "2+ Years",
 
-  ai_stack    : ["OpenAI GPT-4", "Claude API", "LangChain", "LlamaIndex",
-                 "RAG Pipelines", "Vector DBs", "Hugging Face", "AI Agents"],
+  ai        : ["OpenAI GPT-4o", "LangChain", "LlamaIndex", "RAG Pipelines",
+               "Claude API", "AI Agents", "HuggingFace", "Pinecone"],
 
-  frontend    : ["React 18", "Next.js 14 (App Router)", "TypeScript",
-                 "Tailwind CSS", "Framer Motion", "shadcn/ui"],
+  web       : ["React 18", "Next.js 14 App Router", "TypeScript",
+               "Tailwind CSS", "Node.js", "Express", "GraphQL"],
 
-  backend     : ["Node.js", "Express", "ASP.NET Core 10", ".NET 10 C#",
-                 "GraphQL", "REST APIs", "WebSockets"],
+  dotnet    : ["ASP.NET Core 10", ".NET 10", "C#", "Entity Framework",
+               "Minimal APIs", "SignalR"],
 
-  databases   : ["MongoDB", "PostgreSQL", "Redis", "Pinecone", "Supabase"],
+  data      : ["PostgreSQL", "MongoDB", "Redis", "Supabase",
+               "Firebase", "Pinecone Vector DB"],
 
-  mobile      : ["Flutter", "Dart", "Riverpod", "BLoC", "Firebase"],
+  cloud     : ["Microsoft Azure", "Kubernetes (K8s)", "Docker",
+               "GitHub Actions", "Azure DevOps", "CI/CD"],
 
-  devops      : ["Azure", "Kubernetes", "Docker", "CI/CD", "GitHub Actions"],
+  mobile    : ["Flutter", "Dart", "Riverpod", "BLoC", "Firebase"],
 
-  available   : true,  // open to exciting projects
+  available :  true,   // 🟢 open to exciting projects
 };
 ```
 
 ---
 
-## 📊 GitHub Stats
+## `> stats --global`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadsameer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=080b14&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&ring_color=7c3aed"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsameer&layout=compact&theme=midnight-purple&hide_border=true&bg_color=080b14&title_color=a78bfa&text_color=94a3b8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=03050a&title_color=818cf8&icon_color=818cf8&text_color=64748b&ring_color=818cf8&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=03050a&title_color=818cf8&text_color=64748b"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=muhammadsameer&theme=midnight-purple&hide_border=true&background=080b14&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=475569" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=03050a&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideLabels=334155&dates=1e3048&stroke=1a2040" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsameer&bg_color=080b14&color=a78bfa&line=7c3aed&point=06b6d4&hide_border=true&area=true&area_color=7c3aed" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsameer&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=03050a&color=818cf8&line=818cf8&point=38bdf8&hide_border=true&area=true&area_color=818cf810&radius=8" />
 
 </div>
 
 ---
 
-## ⚡ Tech Arsenal
+## `> ls ./tech-arsenal`
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### 🤖 AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+**`AI / ML`**
+```
+OpenAI GPT-4o     ████████████
+LangChain         ████████████
+RAG Pipelines     ███████████░
+LlamaIndex        ██████████░░
+HuggingFace       █████████░░░
+Pinecone          ████████░░░░
+Python            ████████████
+```
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+**`Frontend`**
+```
+React 18          ████████████
+Next.js 14        ████████████
+TypeScript        ███████████░
+Tailwind CSS      ████████████
+Framer Motion     █████████░░░
+shadcn/ui         ██████████░░
+```
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</td>
+<td valign="top" width="33%">
 
-### ☁️ DevOps & Cloud
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**`Backend`**
+```
+Node.js           ████████████
+ASP.NET Core 10   ███████████░
+.NET 10 / C#      ███████████░
+Express           ████████████
+GraphQL           █████████░░░
+WebSockets        ██████████░░
+```
 
-</div>
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**`Databases`**
+```
+PostgreSQL        ████████████
+MongoDB           ████████████
+Redis             ██████████░░
+Supabase          █████████░░░
+Firebase          ██████████░░
+```
+
+</td>
+<td valign="top">
+
+**`Mobile`**
+```
+Flutter           ████████████
+Dart              ████████████
+Riverpod          ██████████░░
+BLoC              █████████░░░
+Firebase          ██████████░░
+```
+
+</td>
+<td valign="top">
+
+**`DevOps & Cloud`**
+```
+Microsoft Azure   ███████████░
+Kubernetes        ██████████░░
+Docker            ████████████
+GitHub Actions    ████████████
+Azure DevOps      █████████░░░
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I Build
+## `> cat capabilities.md`
 
-| Domain | Capabilities |
+| Module | What I Ship |
 |---|---|
-| 🤖 **AI Engineering** | LLM integration, RAG pipelines, AI agents, chatbots, prompt engineering, fine-tuning |
-| 🌐 **Full Stack Web** | MERN, Next.js App Router, ASP.NET Core 10, REST & GraphQL APIs, realtime apps |
-| 📱 **Mobile** | Flutter iOS & Android, Firebase, BLoC & Riverpod, App/Play Store deployments |
-| ☁️ **Cloud & DevOps** | Azure, Kubernetes orchestration, Docker containers, CI/CD pipelines |
-| 🗄️ **Databases** | MongoDB, PostgreSQL, Redis caching, vector databases for AI workloads |
-| 🎨 **UI/UX** | Design systems, Tailwind CSS, Framer Motion, accessibility-first interfaces |
+| `🤖 AI Engineering` | LLM apps, RAG search, AI agents, chatbots, fine-tuning, prompt engineering |
+| `🌐 Full Stack Web` | MERN, Next.js 14, ASP.NET Core 10, REST/GraphQL, realtime with WebSockets/SignalR |
+| `☁️ Cloud & DevOps` | Azure infra, Kubernetes clusters, Dockerized apps, CI/CD pipelines |
+| `🗄️ Data` | PostgreSQL schemas, MongoDB aggregations, Redis caching, vector DB for AI |
+| `📱 Mobile` | Flutter iOS & Android, BLoC/Riverpod, Firebase, App & Play Store deployments |
+| `🎨 UI/UX` | Tailwind design systems, Framer Motion animations, accessibility-first interfaces |
 
 ---
 
-## 💬 Philosophy
+## `> git log --projects`
 
-> *"Code is communication — between engineers, between humans, and now between humans and AI.  
-> I build software at that intersection: intelligent, scalable, and genuinely useful."*
+```bash
+commit a1f3c9e  🤖 AI SaaS Platform        [production]   ██████████████░░
+commit b2d4f8a  🧠 RAG Search Engine        [open-source]  ████████████░░░░
+commit c3e5g9b  ⚡ Realtime Collab Tool     [live]         ████████████████
+commit d4f6h0c  📱 Flutter UI Component Kit [pub.dev]      ██████████░░░░░░
+commit e5g7i1d  🔷 ASP.NET Core Boilerplate [in-progress]  ████████░░░░░░░░
+```
 
 ---
 
-## 📌 Open Source Progress
+## `> trophy --display`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+---
+
+## `> echo $PHILOSOPHY`
 
 ```
-🤖 AI SaaS Platform          ██████████████░░  Production
-🧠 RAG Search Engine         ████████████░░░░  Open Source
-⚡ Realtime Collab Tool      ████████████████  Live & Active
-📱 Flutter UI Kit            ██████████░░░░░░  pub.dev
-🔷 ASP.NET Boilerplate       ████████░░░░░░░░  In Progress
+"Code is communication — between engineers, between humans,
+ and now between humans and AI.
+
+ I build software at that intersection:
+ intelligent, scalable, and genuinely useful."
+
+                                     — Muhammad Sameer
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:2d1b69,100:080b14&height=100&section=footer&animation=fadeIn"/>
+**`> Let's build something extraordinary.`**
 
-**Let's build something extraordinary.**
+<br/>
 
-[📬 Email](mailto:sameersam.s199@gmail.com) · [🌍 Portfolio](https://sameerdev.online) · [💼 LinkedIn](https://www.linkedin.com/in/muhammad-sameer-9767921b7/)
+[![Email](https://img.shields.io/badge/📬_Email_Me-ea4335?style=for-the-badge&labelColor=07091a)](mailto:sameersam.s199@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-818cf8?style=for-the-badge&labelColor=07091a)](https://sameerdev.online)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0a66c2?style=for-the-badge&labelColor=07091a)](https://www.linkedin.com/in/muhammad-sameer-9767921b7/)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03050a,50:818cf820,100:03050a&height=1&section=footer"/>
 
 </div>
