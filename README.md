@@ -1,67 +1,44 @@
-<!-- Banner -->
+<!-- Header Wave -->
 <p align="center">
-  <img src="https://i.ibb.co/mz5tWJ9/dev-banner.gif" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:3b82f6&height=220&section=header&text=Muhammad%20Sameer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descAlignY=58&descSize=22&descColor=94a3b8"/>
 </p>
 
-<!-- Name -->
-<h1 align="center">
-  <span style="font-size:2.5rem; background: linear-gradient(90deg,#06b6d4,#3b82f6); -webkit-background-clip:text; color:transparent;">
-    Hi, I'm Sameer 👋
-  </span>
-</h1>
-
-<!-- Animated Skills -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=06b6d4&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Flutter+Enthusiast;AI+%26+Realtime+App+Builder;UI%2FUX+Expert" alt="Typing Animation">
-</h3>
-
----
-
-## ✨ About Me
+<!-- Typing Animation -->
 <p align="center">
-  🚀 I design and develop full-stack applications with scalable architectures and clean UI/UX. <br>
-  💡 Currently building AI-powered and realtime applications for seamless user experiences. <br>
-  🎯 Skilled in optimizing performance, implementing modern design patterns, and leading projects from concept to deployment. <br>
-  🔹 Passionate about mentoring juniors, writing maintainable code, and delivering production-ready apps.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%26+AI+Engineer;Fintech+%7C+AI+SaaS+%7C+B2B+Platforms;React+%7C+Next.js+%7C+.NET+10+%7C+Python+FastAPI;Docker+%7C+Kubernetes+%7C+Azure+DevOps;Multi-Agent+AI+%7C+RAG+Pipelines+%7C+Vector+DBs;Building+things+that+ship+to+real+users+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
+<br/>
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,mongodb,flutter,ts,git,docker,postman,vscode,python,ai" />
-</p>
-
----
-
-## 🌍 Connect With Me
+<!-- Social Badges -->
 <p align="center">
   <a href="mailto:sameersam.s199@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-sameer-9767921b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://sameerdev.online/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
----
-
-## 📌 Key Highlights
-- Senior-level expertise in **full-stack MERN projects** and **cross-platform Flutter apps**.  
-- Experienced in **AI integration**, **realtime data streams**, and **modern UI/UX design patterns**.  
-- Strong focus on **code quality, scalability, and maintainability**.  
-- Mentor and guide for juniors, fostering clean and efficient development practices.  
-- Active in **open-source contributions** and continuous learning of new technologies.  
+<br/>
 
 ---
 
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=120&section=footer"/>
-</p>
+## 🧑‍💻 About Me
 
-
-
+```ts
+const sameer = {
+  role:       "Full Stack Developer & AI Engineer",
+  location:   "Hyderabad, India 🇮🇳",
+  experience: "2+ years · production-grade apps",
+  domains:    ["Fintech", "AI SaaS", "B2B Platforms", "E-Commerce"],
+  frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+  backend:    ["Node.js", "C# .NET 10", "Python FastAPI", "Express.js"],
+  ai:         ["RAG Pipelines", "Multi-Agent Systems", "Qdrant", "Azure AI Foundry"],
+  devops:     ["Docker", "Kubernetes", "Helm", "Azure DevOps", "CI/CD"],
+  databases:  ["PostgreSQL", "MongoDB", "Redis", "Supabase", "SQLite"],
+  passion:    "Building real products · Leading teams · Shipping clean code 🚀",
+};
